@@ -1,11 +1,5 @@
 # AI Clauset
 
-Live at https://ai-clauset.vercel.app/
-
-<br>
-
-Introduction
---
 Welcome to AI clauset, your personal helper to select your day to day outfits. We invite you to complete a little walkthrough below to see the key features of our application. It will show what our application is currently capable of as well as how it utilizes AI in its work.
 
 **Please do the walkthough in the incognito window as some of the addons might block the fetches to AI.**
@@ -172,12 +166,3 @@ As discussed, we cannot see Casual outfit anymore as neigher of casual clothes m
 |Type| Bottom | Top |
 |Occasion| Sports | Sports |
 |Temperature | 25 | 20 |
-
-### Party
-| | Cloth 1 | Cloth 2 |
-|-|---------| --------|
-|Image| <img src="https://github.com/dps970/final-project-mdmytrenko-astalwar/assets/79389256/7cd552ca-f6c9-47dd-9b45-f1677e7a8ec2" height="200"> | <img src="https://github.com/dps970/final-project-mdmytrenko-astalwar/assets/79389256/97121d75-d5c8-4ae5-9a96-1864410527e1" height="200"> |
-|Name| Cool Jeans | Vibe Button Down |
-|Type| Bottom | Top |
-|Occasion| Party | Party |
-|Temperature | 5 | 15 |

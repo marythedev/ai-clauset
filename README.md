@@ -2,6 +2,10 @@
 
 Welcome to AI clauset, your personal helper to select your day to day outfits. This is an AI-based solution to create day to day outfits. There is no longer a need to spend hours next to the wardrobe. AI Clauset will create outfits based on current weather conditions and the clothes' images that user has uploaded.
 
+<p align="center">
+  <img height="500" alt="ai-clauset" src="https://github.com/user-attachments/assets/07fe5176-1a14-426f-9562-f52c0d1989f4" />
+</p>
+
 We invite you to complete a little walkthrough below to see the key features of our application. It will show what our application is currently capable of as well as how it utilizes AI in its work.
 
 <br>
